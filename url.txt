@@ -1,0 +1,2 @@
+https://jake-scrapper-test.herokuapp.com/
+http://reviewscrapaws-env.eba-v2ztakim.us-east-1.elasticbeanstalk.com/
